@@ -59,25 +59,25 @@ On the basis of my observation, I made my [algorithm](https://github.com/sameerh
 conda create --name environment_name python=3.7
 ```
 
-2. Install the [requirments.txt](https://github.com/sameerhashmi36/Venturas_task/blob/main/requirements.txt) file
+2. Install the [requirments.txt](https://github.com/sameerhashmi36/Venturas_task/blob/assignment/requirements.txt) file
 
 ```
 pip install -r requirements.txt
 ```
 
-3. run the activity checking code in terminal([Source code](https://github.com/sameerhashmi36/Venturas_task/blob/main/venturas_activity_check.py))
+3. run the activity checking code in terminal([Source code](https://github.com/sameerhashmi36/Venturas_task/blob/assignment/venturas_activity_check.py))
 
 ```
 python venturas_activity_check.py
 ```
 
-4. run the prediction codes([Downsampled](https://github.com/sameerhashmi36/Venturas_task/blob/main/venturas_downsampled.py))
+4. run the prediction codes([Downsampled](https://github.com/sameerhashmi36/Venturas_task/blob/assignment/venturas_downsampled.py))
 
 ```
 python venturas_downsampled.py
 ```
 
-5. run the prediction codes([Upsampled](https://github.com/sameerhashmi36/Venturas_task/blob/main/venturas_upsampled.py))
+5. run the prediction codes([Upsampled](https://github.com/sameerhashmi36/Venturas_task/blob/assignment/venturas_upsampled.py))
 
 ```
 python venturas_upsampled.py
@@ -85,8 +85,8 @@ python venturas_upsampled.py
 
 ## ipynb files
 
-**I have also pushed google colab files where I did the rough. files are [venturas.ipynb](https://github.com/sameerhashmi36/Venturas_task/blob/main/venturas.ipynb) and [venturas_activity_check.ipynb](https://github.com/sameerhashmi36/Venturas_task/blob/main/venturas_activity_check.ipynb)**
+**I have also pushed google colab files where I did the rough. files are [venturas.ipynb](https://github.com/sameerhashmi36/Venturas_task/blob/assignment/venturas.ipynb) and [venturas_activity_check.ipynb](https://github.com/sameerhashmi36/Venturas_task/blob/assignment/venturas_activity_check.ipynb)**
 
 ## Prediction
 
-For the prediction document part I have added a [Prediction.pdf](https://github.com/sameerhashmi36/Venturas_task/blob/main/Prediction.pdf) file
+For the prediction document part I have added a [Prediction.pdf](https://github.com/sameerhashmi36/Venturas_task/blob/assignment/Prediction.pdf) file
