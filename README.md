@@ -2,10 +2,6 @@
 
 Data distribution and prediction
 
-# Venturas_task
-
-Data modeling and prediction
-
 ## Activity Contribution
 
 I have observed that there are about 904772 activities with 139556 unique customers in activity.csv and in the other hand there are 4356 unique customers who closed their deals in 187 unique dates.
